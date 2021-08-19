@@ -1,7 +1,7 @@
 # The-Battle-of-Mumbai-Restaurants
 This project deals with the selection of a good restaurant in Mumbai, India using Machine Learning Clustering algorithm.
 
-We use Folium library to plot the map of Mumbai.
+First we use Folium library to plot the map of Mumbai.
 
 ![image](https://user-images.githubusercontent.com/48560818/130059879-3c291346-0796-4613-a116-af9d2ba2520d.png)
 
